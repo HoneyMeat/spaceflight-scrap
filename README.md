@@ -70,3 +70,5 @@ python3 main.py
 <pre>
 python3 clean.py
 </pre>
+
+<h2>The Bot Will Create a .csv File with This Schema:</h2>
