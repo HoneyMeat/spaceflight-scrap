@@ -1,6 +1,6 @@
 <h1 align="center">Space Flight Data Scraping Bot</h1>
 
-<p>This bot is designed to automatically retrieve the latest space flight data since 1957 from <a href="https://nextspaceflight.com/launches/past/?search=">nextflight</a>.</p>
+<p>This bot is designed to automatically retrieve the latest space flight data since 1957 from <a href="https://nextspaceflight.com/launches/past/?search=">next spaceflight</a>.</p>
 
 <h2>Getting Started</h2>
 
