@@ -71,4 +71,6 @@ python3 main.py
 python3 clean.py
 </pre>
 
-<h2>The Bot Will Create a .csv File with This Schema:</h2>
+<h2>The Bot Will Create a .csv File with This Schema: </h2>
+<img src="table.png">
+
